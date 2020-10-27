@@ -14,6 +14,10 @@
 			<Item Name="D_UI_CAFÉ_MEX_ESP.lvlib" Type="Library" URL="../DATABASE_UI_CAFÉ_MEX_ESP/D_UI_CAFÉ_MEX_ESP.lvlib"/>
 			<Item Name="DATA_UI_CAFÉ_MEX_ESP.lvlib" Type="Library" URL="../UI_CAFÉ_MEX_ESP/DATA_UI_CAFÉ_MEX_ESP.lvlib"/>
 		</Item>
+		<Item Name="PAPAS_MEX_ESP" Type="Folder">
+			<Item Name="BD_PAPAS_MEX_ESP.lvlib" Type="Library" URL="../BD_PAPAS_MEX_ESP/BD_PAPAS_MEX_ESP.lvlib"/>
+			<Item Name="UI_PAPAS_MEX_ESP.lvlib" Type="Library" URL="../UI_PAPAS_MEX_ESP/UI_PAPAS_MEX_ESP.lvlib"/>
+		</Item>
 		<Item Name="LAUNCHER.vi" Type="VI" URL="../UI_CAFÉ_MEX_ESP/LAUNCHER.vi"/>
 		<Item Name="SELECT SQL.vi" Type="VI" URL="../UI_CAFÉ_MEX_ESP/SELECT SQL.vi"/>
 		<Item Name="UPDATE DATA.vi" Type="VI" URL="../UI_CAFÉ_MEX_ESP/UPDATE DATA.vi"/>
