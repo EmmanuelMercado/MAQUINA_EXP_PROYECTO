@@ -4,6 +4,8 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">419463168</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Item Name="Abstract Messages for Caller" Type="Folder"/>
-	<Item Name="Messages for this Actor" Type="Folder"/>
+	<Item Name="Messages for this Actor" Type="Folder">
+		<Item Name="INITIALIZE Msg.lvclass" Type="LVClass" URL="../../BD_CAFÉ_USD_ESP Messages/INITIALIZE Msg/INITIALIZE Msg.lvclass"/>
+	</Item>
 	<Item Name="BD_CAFÉ_USD_ESP.lvclass" Type="LVClass" URL="../BD_CAFÉ_USD_ESP.lvclass"/>
 </Library>
