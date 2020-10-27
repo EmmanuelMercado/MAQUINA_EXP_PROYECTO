@@ -22,6 +22,7 @@
 			<Item Name="BD_PAPAS_MEX_ESP.lvlib" Type="Library" URL="../BD_PAPAS_MEX_ESP/BD_PAPAS_MEX_ESP.lvlib"/>
 			<Item Name="UI_PAPAS_MEX_ESP.lvlib" Type="Library" URL="../UI_PAPAS_MEX_ESP/UI_PAPAS_MEX_ESP.lvlib"/>
 		</Item>
+		<Item Name="CASO.vi" Type="VI" URL="../CASO.vi"/>
 		<Item Name="LAUNCHER.vi" Type="VI" URL="../UI_CAFÉ_MEX_ESP/LAUNCHER.vi"/>
 		<Item Name="SELECT SQL.vi" Type="VI" URL="../UI_CAFÉ_MEX_ESP/SELECT SQL.vi"/>
 		<Item Name="UPDATE DATA.vi" Type="VI" URL="../UI_CAFÉ_MEX_ESP/UPDATE DATA.vi"/>
