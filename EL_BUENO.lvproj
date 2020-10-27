@@ -15,6 +15,8 @@
 			<Item Name="DATA_UI_CAFÉ_MEX_ESP.lvlib" Type="Library" URL="../UI_CAFÉ_MEX_ESP/DATA_UI_CAFÉ_MEX_ESP.lvlib"/>
 		</Item>
 		<Item Name="LAUNCHER.vi" Type="VI" URL="../UI_CAFÉ_MEX_ESP/LAUNCHER.vi"/>
+		<Item Name="SELECT SQL.vi" Type="VI" URL="../UI_CAFÉ_MEX_ESP/SELECT SQL.vi"/>
+		<Item Name="UPDATE DATA.vi" Type="VI" URL="../UI_CAFÉ_MEX_ESP/UPDATE DATA.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Actor Framework.lvlib" Type="Library" URL="/&lt;vilib&gt;/ActorFramework/Actor Framework.lvlib"/>
