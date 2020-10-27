@@ -14,22 +14,40 @@
 			<Item Name="D_UI_CAFÉ_MEX_ESP.lvlib" Type="Library" URL="../DATABASE_UI_CAFÉ_MEX_ESP/D_UI_CAFÉ_MEX_ESP.lvlib"/>
 			<Item Name="DATA_UI_CAFÉ_MEX_ESP.lvlib" Type="Library" URL="../UI_CAFÉ_MEX_ESP/DATA_UI_CAFÉ_MEX_ESP.lvlib"/>
 		</Item>
+		<Item Name="CAFÉ_MXN_ENG" Type="Folder">
+			<Item Name="BD_CAFÉ_MXN_ENG.lvlib" Type="Library" URL="../BD_CAFÉ_MXN_ENG/BD_CAFÉ_MXN_ENG.lvlib"/>
+			<Item Name="UI_CAFE_MXN_ING.lvlib" Type="Library" URL="../UI_CAFE_MXN_ING/UI_CAFE_MXN_ING.lvlib"/>
+		</Item>
 		<Item Name="CAFÉ_USD_ESP" Type="Folder">
 			<Item Name="BD_CAFÉ_USD_ESP.lvlib" Type="Library" URL="../BD_CAFÉ_USD_ESP/BD_CAFÉ_USD_ESP.lvlib"/>
 			<Item Name="UI_CAFÉ_USD_ES.lvlib" Type="Library" URL="../UI_CAFÉ_USD_ES/UI_CAFÉ_USD_ES.lvlib"/>
+		</Item>
+		<Item Name="CAFÉ_USD_ING" Type="Folder">
+			<Item Name="BD_CAFE_USD_ING.lvlib" Type="Library" URL="../BD_CAFE_USD_ING/BD_CAFE_USD_ING.lvlib"/>
+			<Item Name="UI_CAFE_USD_ING.lvlib" Type="Library" URL="../UI_CAFE_USD_ING/UI_CAFE_USD_ING.lvlib"/>
 		</Item>
 		<Item Name="PAPAS_MEX_ESP" Type="Folder">
 			<Item Name="BD_PAPAS_MEX_ESP.lvlib" Type="Library" URL="../BD_PAPAS_MEX_ESP/BD_PAPAS_MEX_ESP.lvlib"/>
 			<Item Name="UI_PAPAS_MEX_ESP.lvlib" Type="Library" URL="../UI_PAPAS_MEX_ESP/UI_PAPAS_MEX_ESP.lvlib"/>
 		</Item>
+		<Item Name="PAPAS_MXN_ENG" Type="Folder">
+			<Item Name="BD_PAPAS_MXN_ENG.lvlib" Type="Library" URL="../BD_PAPAS_MXN_ENG/BD_PAPAS_MXN_ENG.lvlib"/>
+			<Item Name="UI_PAPAS_MXN_ENG.lvlib" Type="Library" URL="../UI_PAPAS_MXN_ENG/UI_PAPAS_MXN_ENG.lvlib"/>
+		</Item>
 		<Item Name="PAPAS_USD_ES" Type="Folder">
 			<Item Name="BD_PAPAS_USD_ES.lvlib" Type="Library" URL="../BD_PAPAS_USD_ES/BD_PAPAS_USD_ES.lvlib"/>
 			<Item Name="UI_PAPAS_USD_ESP.lvlib" Type="Library" URL="../UI_PAPAS_USD_ESP/UI_PAPAS_USD_ESP.lvlib"/>
 		</Item>
+		<Item Name="PAPAS_USD_ING" Type="Folder">
+			<Item Name="BD_PAPAS_USD_ING.lvlib" Type="Library" URL="../BD_PAPAS_USD_ING/BD_PAPAS_USD_ING.lvlib"/>
+			<Item Name="UI_PAPAS_USD_ING.lvlib" Type="Library" URL="../UI_PAPAS_USD_ING/UI_PAPAS_USD_ING.lvlib"/>
+		</Item>
 		<Item Name="CASO.vi" Type="VI" URL="../CASO.vi"/>
 		<Item Name="LAUNCHER.vi" Type="VI" URL="../UI_CAFÉ_MEX_ESP/LAUNCHER.vi"/>
+		<Item Name="SELECT SQL ENGLISH.vi" Type="VI" URL="../BD_PAPAS_USD_ES/SELECT SQL ENGLISH.vi"/>
 		<Item Name="SELECT SQL.vi" Type="VI" URL="../UI_CAFÉ_MEX_ESP/SELECT SQL.vi"/>
 		<Item Name="UPDATE DATA.vi" Type="VI" URL="../UI_CAFÉ_MEX_ESP/UPDATE DATA.vi"/>
+		<Item Name="UPDATE SQL ENG.vi" Type="VI" URL="../BD_PAPAS_USD_ES/UPDATE SQL ENG.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Actor Framework.lvlib" Type="Library" URL="/&lt;vilib&gt;/ActorFramework/Actor Framework.lvlib"/>
