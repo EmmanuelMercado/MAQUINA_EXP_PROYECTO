@@ -14,6 +14,10 @@
 			<Item Name="D_UI_CAFÉ_MEX_ESP.lvlib" Type="Library" URL="../DATABASE_UI_CAFÉ_MEX_ESP/D_UI_CAFÉ_MEX_ESP.lvlib"/>
 			<Item Name="DATA_UI_CAFÉ_MEX_ESP.lvlib" Type="Library" URL="../UI_CAFÉ_MEX_ESP/DATA_UI_CAFÉ_MEX_ESP.lvlib"/>
 		</Item>
+		<Item Name="CAFÉ_USD_ESP" Type="Folder">
+			<Item Name="BD_CAFÉ_USD_ESP.lvlib" Type="Library" URL="../BD_CAFÉ_USD_ESP/BD_CAFÉ_USD_ESP.lvlib"/>
+			<Item Name="UI_CAFÉ_USD_ES.lvlib" Type="Library" URL="../UI_CAFÉ_USD_ES/UI_CAFÉ_USD_ES.lvlib"/>
+		</Item>
 		<Item Name="PAPAS_MEX_ESP" Type="Folder">
 			<Item Name="BD_PAPAS_MEX_ESP.lvlib" Type="Library" URL="../BD_PAPAS_MEX_ESP/BD_PAPAS_MEX_ESP.lvlib"/>
 			<Item Name="UI_PAPAS_MEX_ESP.lvlib" Type="Library" URL="../UI_PAPAS_MEX_ESP/UI_PAPAS_MEX_ESP.lvlib"/>
